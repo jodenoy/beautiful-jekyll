@@ -6,7 +6,7 @@ date: '2017-05-19'
 tags:
   - Oyston
   - Cricket
-  - Newspapers
+  - Newspaper
   - Wortley
 ---
 ## Leeds Mercury – Monday 15 April 1895 
