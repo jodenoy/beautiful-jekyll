@@ -8,6 +8,11 @@ tags:
   - Unthank
   - Newspaper
   - Long Preston
+sitemap:
+  lastmod: 2017-05-21T00:00:00.000Z
+  priority: 0.7
+  changefreq: monthly
+  exclude: 'no'
 ---
 ### Unthank
 
