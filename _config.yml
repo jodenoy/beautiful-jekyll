@@ -24,6 +24,7 @@ description: The Family History of Bethany Oyston
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Tags: "tags"
   Resources:
     - Tags: "tags"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -62,7 +63,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: false
   twitter: true
@@ -199,7 +200,7 @@ prose:
           help: "Add a thumbnail image to your post."
           placeholder: "Thumbnail"
           alterable: true
-      - name: "published"
+       - name: "published"
         field:
           element: "checkbox"
           label: "Publish"
