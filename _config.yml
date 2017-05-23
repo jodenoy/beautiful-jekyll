@@ -27,7 +27,6 @@ navbar-links:
   About Me: "aboutme"
   Tags: "tags.html"
   Resources:
-  	- Tags: "tags.html"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
