@@ -25,7 +25,7 @@ description: Family History of The Oystons of Huddersfield
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Tags: "tags"
+  Tags: "tags.html"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
