@@ -21,6 +21,6 @@ tags:
 
 George Oyston is buried in the Churchyard of [St John's CofE, Newland, Hull](http://buff.ly/1o6YQCa)
 
-Died in the [Gardener's Arms](https://www.flickr.com/photos/bolckow/2763613876/in/photolist-4KyQEo-6W7MEt-5ddf87-afJ5AR-8z7BPr-owa565-of2fbm-8Y5wUh-8eRGUe-nXj9P-5R2xtM-9NCFM2-oukiKy-ot4Fnu-owRrMF/), Cottingham Road, Hull.
+Died in the [Gardener's Arms](https://goo.gl/images/oa2Rbw), Cottingham Road, Hull.
 
 
