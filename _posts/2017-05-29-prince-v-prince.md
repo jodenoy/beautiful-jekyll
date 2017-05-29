@@ -5,7 +5,7 @@ title: Prince v Prince
 subtitle: >-
   Details of a court case at Scaborough Town Hall between brothers, William and
   Francis Prince over their mother's estate.
-date: '1917-05-29'
+date: '2017-05-29'
 tags:
   - Prince
   - Newspaper
