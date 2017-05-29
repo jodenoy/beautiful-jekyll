@@ -36,6 +36,6 @@ Places named in the article (names in bold are included in **Prince** family his
 **Scarborough**
 **Hull**
 
-![Scarborough Town Hall](https://github.com/jodenoy/jodenoy.github.io/blob/master/img/Town_Hall_Scarborough_-_geograph.org.uk_-_878003.jpg)
+![Scarborough Town Hall](/img/Town_Hall_Scarborough_-_geograph.org.uk_-_878003.jpg)
 
 Image attribution: Jeff Pearson [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons
