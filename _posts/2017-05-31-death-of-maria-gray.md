@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Death of Maria Gray
 subtitle: >-
   Newspaper article about the circumstances regarding the strange death of Maria
@@ -11,6 +11,7 @@ tags:
   - Gray
   - Newspaper
   - Pickering
+image: img/geograph-3562743-by-Tim-Glover.jpg
 ---
 ## The Daily Gazette, Friday, January 23. 1880; page 4; 
 
