@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Death of Maria Gray
 subtitle: >-
   Newspaper article about the circumstances regarding the strange death of Maria
