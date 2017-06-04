@@ -1,0 +1,29 @@
+---
+layout: post
+published: true
+title: 'Book Review - Gone Girl '
+subtitle: Book Review of Gone Girl by Gillian Flynn
+date: '2017-04-06'
+tags:
+  - Review
+  - Flynn Gillian
+---
+### Gone Girl - Gillian Flynn
+
+Purchase Date 11 July 2014 Price 99p
+
+<a href="https://www.amazon.co.uk/dp/B007ZXK08C/ref=as_li_ss_il?_encoding=UTF8&btkr=1&linkCode=li2&tag=jodenopublis-21&linkId=99104dec81da5c587fea3bf104e2f29b" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007ZXK08C&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=jodenopublis-21" ></a>
+
+Current Kindle Price : £5.99
+
+What more can be said about this book?  My advice when reading is;
+* keep an open mind
+* question everything
+* do not trust anyone
+* be prepared for surprises and 
+* don't expect the ending *you* think *you* deserve.
+
+A modern, psychological masterpiece, destined to become a classic.
+
+Should I purchase? *[Wait for price drop.](https://www.ereaderiq.com/)* 
+
